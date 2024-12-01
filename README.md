@@ -1,7 +1,8 @@
 # MyVCS
 # MyVCS - A Custom Version Control System
 
-Welcome to MyVCS 😃 – a simple, version control system built from scratch! Think of it as your very own Git, but built the nerdy way. this vcs just did it for fun, to practice file I/O java, about commit hashes, and idk just have some fun with coding 😂. 
+
+ 😃 –  this is just a simple, version control system built from scratch! Think of it as your very own Git, but built the nerdy way. this vcs just did it for fun, to practice file I/O java(NGL i really do like java alot fr fr , its it hehe), about commit hashes, and idk just have some fun with coding 😂. 
 
 ## Why Build Your Own VCS?
 
