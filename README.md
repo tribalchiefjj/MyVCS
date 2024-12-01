@@ -30,8 +30,9 @@ Plus, it’s a great way to practice file I/O – because who doesn’t love rea
 1. Clone this repository to your local machine.
 2. Open a terminal or command prompt and navigate to your project folder.
 3. Start **MyVCS** by running the `Main` class in your IDE (Eclipse or VSCode).
-4. Use the following commands:
 
+
+ Use the following commands:
 
  1. init       # Initializes the repository
  2. add <file> # Stages a file for commit
