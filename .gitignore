@@ -1,0 +1,36 @@
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# Build output directories
+bin/
+
+# IntelliJ IDEA files (in case collaborators use it)
+.idea/
+*.iml
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Maven/Gradle build system
+target/
+build/
+*.jar
+*.war
+*.ear
+*.class
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+
+# Git directories and files
+.myvcs/
+
+# Miscellaneous
+.vscode/
+*.bak
+*.old

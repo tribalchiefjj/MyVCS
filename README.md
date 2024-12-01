@@ -10,7 +10,7 @@ Who needs Git when you can build your own system? 💁‍♂️
 
 MyVCS is a learning project for anyone looking to understand the inner workings of version control systems. It gives you the power to:
 
-- Stage files 📝 (`add` command)
+- Stage files 📝 (`add` command)  
 - Commit changes 💾 (`commit` command)
 - View commit history 📜 (`history` command)
 
